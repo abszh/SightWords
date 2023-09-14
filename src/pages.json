@@ -1,0 +1,132 @@
+[
+  {
+    "name": "golden",
+    "title": "Golden",
+    "color": "goldenrod",
+    "items": [
+      "a",
+      "and",
+      "be",
+      "I",
+      "in",
+      "is",
+      "it",
+      "of",
+      "that",
+      "the",
+      "to",
+      "you"
+    ]
+  },
+  {
+    "name": "red",
+    "title": "Red",
+    "color": "red",
+    "items": [
+      "all",
+      "are",
+      "at",
+      "but",
+      "for",
+      "had",
+      "have",
+      "he",
+      "her",
+      "his",
+      "not",
+      "on",
+      "one",
+      "said",
+      "they",
+      "this",
+      "was",
+      "we",
+      "what",
+      "with"
+    ]
+  },
+  {
+    "name": "blue",
+    "title": "Blue",
+    "color": "blue",
+    "items": [
+      "an",
+      "as",
+      "by",
+      "do",
+      "go",
+      "if",
+      "me",
+      "my",
+      "no",
+      "or",
+      "so",
+      "up"
+    ]
+  },
+  {
+    "name": "green",
+    "title": "Green",
+    "color": "green",
+    "items": [
+      "big",
+      "can",
+      "did",
+      "get",
+      "has",
+      "him",
+      "new",
+      "now",
+      "off",
+      "old",
+      "our",
+      "out",
+      "see",
+      "she",
+      "two",
+      "who"
+    ]
+  },
+  {
+    "name": "orange",
+    "title": "Orange",
+    "color": "orange",
+    "items": [
+      "back",
+      "been",
+      "came",
+      "down",
+      "from",
+      "into",
+      "just",
+      "like",
+      "look",
+      "made",
+      "much",
+      "over",
+      "them",
+      "well",
+      "went",
+      "when"
+    ]
+  },
+  {
+    "name": "indigo",
+    "title": "Indigo",
+    "color": "blue",
+    "items": [
+      "call",
+      "come",
+      "here",
+      "make",
+      "must",
+      "only",
+      "some",
+      "then",
+      "want",
+      "were",
+      "will",
+      "your"
+    ]
+  }
+]
