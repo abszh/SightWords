@@ -17,6 +17,8 @@ export default function RandomSort(words, seed) {
     return orderedWords;
 }
 
+// Math.random()‌ is not seedable
+// therefore I'm using this simple method to generate pseudo random numbers
 // from https://stackoverflow.com/a/19303725
 function random(seed) {
     var x = Math.sin(seed) * 10000;
