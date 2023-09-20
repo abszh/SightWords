@@ -6,10 +6,9 @@ export default function RandomSort(words, seed) {
     while (orderedWords.length < words.length) {
         // randomly pick one word from the remaining words
         let index = Math.floor(random(seed++) * remainingWords.length);
-        let theWord = remainingWords[index];
 
         // add the picked word to the output list
-        orderedWords.push(theWord);
+        orderedWords.push(remainingWords[index]);
 
         // remove it from the remaining words
         remainingWords.splice(index, 1);
