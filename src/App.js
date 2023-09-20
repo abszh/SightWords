@@ -6,12 +6,13 @@ import pages from "./pages.json";
 
 function App() {
     const navBarLinks = pages.map(page => { return { "name": page.name, "title": page.title } });
+    const date = new Date();
     const routes = pages.map(
         (page, index) =>
             <Route key={index}
                 path={"/" + page.name}
                 element={< Gallery
-                    words={RandomSort(page.items)}
+                    words={RandomSort(page.items, date.getDate())}
                     color={page.color}
                     key={index} />}
             />
